@@ -1,2 +1,3 @@
 # Mbti_Personality
-纯前端React小程序（已部署，正在被审核....）
+MBTI性格测试小程序
+纯前端React（已部署，正在被审核....）
